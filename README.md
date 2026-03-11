@@ -4,7 +4,7 @@
 
 "I will extend my Bosch Production Failure Detection 
 project (AUC 0.646) through independent research on hyperparameter optimization 
-and explainable AI, targeting publication in IEEE Sensors Journal."
+and explainable AI, targeting publication in Journal."
 
 **Predictive maintenance solution reducing Bosch factory downtime by 30-50% using IoT sensor analytics.** 
 Europe's manufacturing loses €50B annually to unplanned failures—this project detects them early.
@@ -90,9 +90,7 @@ model.load_model('model_bosch.model.json')
 | `yclean.csv` | Clean labels |
 | `model_bosch.model.json` | **Production XGBoost model** |
 
-## Research Potential
-**Publishable in:**
-- IEEE Transactions on Industrial Informatics
+## Research Potential
 - Journal of Manufacturing Systems
 
 **Novelty**: Variance-selected sensors + real Bosch data → 0.682 AUC beats industry baselines.
